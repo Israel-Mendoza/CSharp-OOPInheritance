@@ -1,0 +1,10 @@
+C:\Users\Israel Mendoza\source\repos\OOP_Inheritance\FinalApp\bin\Debug\netcoreapp3.1\FinalApp.exe
+C:\Users\Israel Mendoza\source\repos\OOP_Inheritance\FinalApp\bin\Debug\netcoreapp3.1\FinalApp.deps.json
+C:\Users\Israel Mendoza\source\repos\OOP_Inheritance\FinalApp\bin\Debug\netcoreapp3.1\FinalApp.runtimeconfig.json
+C:\Users\Israel Mendoza\source\repos\OOP_Inheritance\FinalApp\bin\Debug\netcoreapp3.1\FinalApp.runtimeconfig.dev.json
+C:\Users\Israel Mendoza\source\repos\OOP_Inheritance\FinalApp\bin\Debug\netcoreapp3.1\FinalApp.dll
+C:\Users\Israel Mendoza\source\repos\OOP_Inheritance\FinalApp\bin\Debug\netcoreapp3.1\FinalApp.pdb
+C:\Users\Israel Mendoza\source\repos\OOP_Inheritance\FinalApp\obj\Debug\netcoreapp3.1\FinalApp.AssemblyInfoInputs.cache
+C:\Users\Israel Mendoza\source\repos\OOP_Inheritance\FinalApp\obj\Debug\netcoreapp3.1\FinalApp.AssemblyInfo.cs
+C:\Users\Israel Mendoza\source\repos\OOP_Inheritance\FinalApp\obj\Debug\netcoreapp3.1\FinalApp.dll
+C:\Users\Israel Mendoza\source\repos\OOP_Inheritance\FinalApp\obj\Debug\netcoreapp3.1\FinalApp.pdb
