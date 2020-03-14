@@ -1,0 +1,11 @@
+C:\Users\Israel Mendoza\source\repos\OOP_Inheritance\Encapsulation\bin\Debug\netcoreapp3.1\Encapsulation.exe
+C:\Users\Israel Mendoza\source\repos\OOP_Inheritance\Encapsulation\bin\Debug\netcoreapp3.1\Encapsulation.deps.json
+C:\Users\Israel Mendoza\source\repos\OOP_Inheritance\Encapsulation\bin\Debug\netcoreapp3.1\Encapsulation.runtimeconfig.json
+C:\Users\Israel Mendoza\source\repos\OOP_Inheritance\Encapsulation\bin\Debug\netcoreapp3.1\Encapsulation.runtimeconfig.dev.json
+C:\Users\Israel Mendoza\source\repos\OOP_Inheritance\Encapsulation\bin\Debug\netcoreapp3.1\Encapsulation.dll
+C:\Users\Israel Mendoza\source\repos\OOP_Inheritance\Encapsulation\bin\Debug\netcoreapp3.1\Encapsulation.pdb
+C:\Users\Israel Mendoza\source\repos\OOP_Inheritance\Encapsulation\obj\Debug\netcoreapp3.1\Encapsulation.csprojAssemblyReference.cache
+C:\Users\Israel Mendoza\source\repos\OOP_Inheritance\Encapsulation\obj\Debug\netcoreapp3.1\Encapsulation.AssemblyInfoInputs.cache
+C:\Users\Israel Mendoza\source\repos\OOP_Inheritance\Encapsulation\obj\Debug\netcoreapp3.1\Encapsulation.AssemblyInfo.cs
+C:\Users\Israel Mendoza\source\repos\OOP_Inheritance\Encapsulation\obj\Debug\netcoreapp3.1\Encapsulation.dll
+C:\Users\Israel Mendoza\source\repos\OOP_Inheritance\Encapsulation\obj\Debug\netcoreapp3.1\Encapsulation.pdb

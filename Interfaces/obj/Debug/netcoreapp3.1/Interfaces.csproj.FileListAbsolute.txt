@@ -1,0 +1,11 @@
+C:\Users\Israel Mendoza\source\repos\OOP_Inheritance\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.exe
+C:\Users\Israel Mendoza\source\repos\OOP_Inheritance\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.deps.json
+C:\Users\Israel Mendoza\source\repos\OOP_Inheritance\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.runtimeconfig.json
+C:\Users\Israel Mendoza\source\repos\OOP_Inheritance\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.runtimeconfig.dev.json
+C:\Users\Israel Mendoza\source\repos\OOP_Inheritance\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.dll
+C:\Users\Israel Mendoza\source\repos\OOP_Inheritance\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.pdb
+C:\Users\Israel Mendoza\source\repos\OOP_Inheritance\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfoInputs.cache
+C:\Users\Israel Mendoza\source\repos\OOP_Inheritance\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfo.cs
+C:\Users\Israel Mendoza\source\repos\OOP_Inheritance\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.dll
+C:\Users\Israel Mendoza\source\repos\OOP_Inheritance\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.pdb
+C:\Users\Israel Mendoza\source\repos\OOP_Inheritance\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csprojAssemblyReference.cache

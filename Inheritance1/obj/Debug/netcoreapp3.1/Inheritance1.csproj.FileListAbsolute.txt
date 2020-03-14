@@ -1,0 +1,11 @@
+C:\Users\Israel Mendoza\source\repos\OOP_Inheritance\Inheritance1\bin\Debug\netcoreapp3.1\Inheritance1.exe
+C:\Users\Israel Mendoza\source\repos\OOP_Inheritance\Inheritance1\bin\Debug\netcoreapp3.1\Inheritance1.deps.json
+C:\Users\Israel Mendoza\source\repos\OOP_Inheritance\Inheritance1\bin\Debug\netcoreapp3.1\Inheritance1.runtimeconfig.json
+C:\Users\Israel Mendoza\source\repos\OOP_Inheritance\Inheritance1\bin\Debug\netcoreapp3.1\Inheritance1.runtimeconfig.dev.json
+C:\Users\Israel Mendoza\source\repos\OOP_Inheritance\Inheritance1\bin\Debug\netcoreapp3.1\Inheritance1.dll
+C:\Users\Israel Mendoza\source\repos\OOP_Inheritance\Inheritance1\bin\Debug\netcoreapp3.1\Inheritance1.pdb
+C:\Users\Israel Mendoza\source\repos\OOP_Inheritance\Inheritance1\obj\Debug\netcoreapp3.1\Inheritance1.csprojAssemblyReference.cache
+C:\Users\Israel Mendoza\source\repos\OOP_Inheritance\Inheritance1\obj\Debug\netcoreapp3.1\Inheritance1.AssemblyInfoInputs.cache
+C:\Users\Israel Mendoza\source\repos\OOP_Inheritance\Inheritance1\obj\Debug\netcoreapp3.1\Inheritance1.AssemblyInfo.cs
+C:\Users\Israel Mendoza\source\repos\OOP_Inheritance\Inheritance1\obj\Debug\netcoreapp3.1\Inheritance1.dll
+C:\Users\Israel Mendoza\source\repos\OOP_Inheritance\Inheritance1\obj\Debug\netcoreapp3.1\Inheritance1.pdb

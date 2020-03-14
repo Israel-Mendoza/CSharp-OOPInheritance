@@ -1,0 +1,10 @@
+C:\Users\Israel Mendoza\source\repos\OOP_Inheritance\Inheritance3\bin\Debug\netcoreapp3.1\AbstractClasses.exe
+C:\Users\Israel Mendoza\source\repos\OOP_Inheritance\Inheritance3\bin\Debug\netcoreapp3.1\AbstractClasses.deps.json
+C:\Users\Israel Mendoza\source\repos\OOP_Inheritance\Inheritance3\bin\Debug\netcoreapp3.1\AbstractClasses.runtimeconfig.json
+C:\Users\Israel Mendoza\source\repos\OOP_Inheritance\Inheritance3\bin\Debug\netcoreapp3.1\AbstractClasses.runtimeconfig.dev.json
+C:\Users\Israel Mendoza\source\repos\OOP_Inheritance\Inheritance3\bin\Debug\netcoreapp3.1\AbstractClasses.dll
+C:\Users\Israel Mendoza\source\repos\OOP_Inheritance\Inheritance3\bin\Debug\netcoreapp3.1\AbstractClasses.pdb
+C:\Users\Israel Mendoza\source\repos\OOP_Inheritance\Inheritance3\obj\Debug\netcoreapp3.1\AbstractClasses.AssemblyInfoInputs.cache
+C:\Users\Israel Mendoza\source\repos\OOP_Inheritance\Inheritance3\obj\Debug\netcoreapp3.1\AbstractClasses.AssemblyInfo.cs
+C:\Users\Israel Mendoza\source\repos\OOP_Inheritance\Inheritance3\obj\Debug\netcoreapp3.1\AbstractClasses.dll
+C:\Users\Israel Mendoza\source\repos\OOP_Inheritance\Inheritance3\obj\Debug\netcoreapp3.1\AbstractClasses.pdb
