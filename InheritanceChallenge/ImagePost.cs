@@ -27,7 +27,11 @@ namespace InheritanceChallenge
                 else
                     throw new Exception("The image URL must be a valid URL address!");
             }
+        }
 
+        public override void DisplayPost()
+        {
+            Console.WriteLine($"Displaying image hosted in {ImageURL}");
         }
     }
 }

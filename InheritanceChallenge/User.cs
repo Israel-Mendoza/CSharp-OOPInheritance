@@ -72,9 +72,9 @@ namespace InheritanceChallenge
             return tempPost;
         }
 
-        public VideoPost CreateVideoPost(string postTitle, bool isPostPublic, string videoURL)
+        public VideoPost CreateVideoPost(string postTitle, bool isPostPublic, string videoURL, int lengthInSeconds)
         {
-            VideoPost tempPost = new VideoPost(postTitle, this, isPostPublic, videoURL);
+            VideoPost tempPost = new VideoPost(postTitle, this, isPostPublic, videoURL, lengthInSeconds);
             this._userPosts.Add(tempPost);
             return tempPost;
         }

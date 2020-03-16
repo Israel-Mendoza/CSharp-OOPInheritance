@@ -28,5 +28,10 @@ namespace InheritanceChallenge
                     throw new Exception("Text post must contain a non-empty string in its contents.");
             }
         }
+
+        public override void DisplayPost()
+        {
+            Console.WriteLine(PostContents);
+        }
     }
 }
