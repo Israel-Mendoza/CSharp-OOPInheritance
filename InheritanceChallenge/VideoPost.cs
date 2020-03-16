@@ -7,38 +7,26 @@ namespace InheritanceChallenge
     public class VideoPost : Post
     {
         // Fields
-        private string _title;
-        private User _sender;
-        private bool _isPublic;
         private string _videoURL;
 
         // Constructor
-        public VideoPost(string title, bool isPublic, User sender, string videoURL)
+        public VideoPost(string title, User sender, bool isPublic, string videoURL) : base(title, sender, isPublic)
         {
-            this.Title = title;
-            this.IsPublic = isPublic;
-            this.Sender = sender;
-            this.VideoURL = videoURL;
+            this._videoURL = videoURL;
         }
 
         // Properties
-        public override string Title
+        public string VideoURL
         {
-            get => this._title;
+            get => this._videoURL;
             set
             {
-                if (!String.IsNullOrEmpty(value))
-                    this._title = value;
+                if (String.IsNullOrEmpty(value))
+                    this._videoURL = value;
                 else
-                    throw new Exception("The Title property must be a non-empty string...");
+                    throw new Exception("The video URL must be a valid URL address!");
             }
         }
-
-        public override User Sender { get => this._sender; set => this._sender = value; }
-
-        public override bool IsPublic { get => this._isPublic; set => this._isPublic = value; }
-
-        public string VideoURL { get => this._videoURL; set => this._videoURL = value; }
 
     }
 }

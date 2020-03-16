@@ -8,39 +8,26 @@ namespace InheritanceChallenge
     {
 
         // Fields
-        private string _title;
-        private bool _isPublic;
-        private User _sender;
         private string _imageURL;
 
         // Constructor
-        public ImagePost(string title, bool isPublic, User sender, string imageURL)
+        public ImagePost(string title, User sender, bool isPublic, string imageURL) : base(title, sender, isPublic)
         {
-            this.Title = title;
-            this.IsPublic = isPublic;
-            this.Sender = sender;
             this.ImageURL = imageURL;
         }
 
         // Properties
-        public override string Title
+        public string ImageURL
         {
-            get => this._title;
+            get => this._imageURL;
             set
             {
                 if (!String.IsNullOrEmpty(value))
-                    this._title = value;
+                    this._imageURL = value;
                 else
-                    throw new Exception("The Title property must be a non-empty string...");
+                    throw new Exception("The image URL must be a valid URL address!");
             }
+
         }
-
-        public override bool IsPublic { get => this._isPublic; set => this._isPublic = value; }
-
-        public override User Sender { get => this._sender; set => this._sender = value; }
-
-        public string ImageURL { get => this._imageURL; set => this._imageURL = value; }
-
-
     }
 }

@@ -67,14 +67,14 @@ namespace InheritanceChallenge
 
         public ImagePost CreateImagePost(string postTitle, bool isPostPublic, string imageURL)
         {
-            ImagePost tempPost = new ImagePost(postTitle, isPostPublic, this, imageURL);
+            ImagePost tempPost = new ImagePost(postTitle, this, isPostPublic, imageURL);
             this._userPosts.Add(tempPost);
             return tempPost;
         }
 
         public VideoPost CreateVideoPost(string postTitle, bool isPostPublic, string videoURL)
         {
-            VideoPost tempPost = new VideoPost(postTitle, isPostPublic, this, videoURL);
+            VideoPost tempPost = new VideoPost(postTitle, this, isPostPublic, videoURL);
             this._userPosts.Add(tempPost);
             return tempPost;
         }
