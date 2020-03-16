@@ -1,0 +1,11 @@
+C:\Users\Israel Mendoza\source\repos\OOP_Inheritance\InheritanceChallenge\bin\Debug\netcoreapp3.1\InheritanceChallenge.exe
+C:\Users\Israel Mendoza\source\repos\OOP_Inheritance\InheritanceChallenge\bin\Debug\netcoreapp3.1\InheritanceChallenge.deps.json
+C:\Users\Israel Mendoza\source\repos\OOP_Inheritance\InheritanceChallenge\bin\Debug\netcoreapp3.1\InheritanceChallenge.runtimeconfig.json
+C:\Users\Israel Mendoza\source\repos\OOP_Inheritance\InheritanceChallenge\bin\Debug\netcoreapp3.1\InheritanceChallenge.runtimeconfig.dev.json
+C:\Users\Israel Mendoza\source\repos\OOP_Inheritance\InheritanceChallenge\bin\Debug\netcoreapp3.1\InheritanceChallenge.dll
+C:\Users\Israel Mendoza\source\repos\OOP_Inheritance\InheritanceChallenge\bin\Debug\netcoreapp3.1\InheritanceChallenge.pdb
+C:\Users\Israel Mendoza\source\repos\OOP_Inheritance\InheritanceChallenge\obj\Debug\netcoreapp3.1\InheritanceChallenge.csprojAssemblyReference.cache
+C:\Users\Israel Mendoza\source\repos\OOP_Inheritance\InheritanceChallenge\obj\Debug\netcoreapp3.1\InheritanceChallenge.AssemblyInfoInputs.cache
+C:\Users\Israel Mendoza\source\repos\OOP_Inheritance\InheritanceChallenge\obj\Debug\netcoreapp3.1\InheritanceChallenge.AssemblyInfo.cs
+C:\Users\Israel Mendoza\source\repos\OOP_Inheritance\InheritanceChallenge\obj\Debug\netcoreapp3.1\InheritanceChallenge.dll
+C:\Users\Israel Mendoza\source\repos\OOP_Inheritance\InheritanceChallenge\obj\Debug\netcoreapp3.1\InheritanceChallenge.pdb
