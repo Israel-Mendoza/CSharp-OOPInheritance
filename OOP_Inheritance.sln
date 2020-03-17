@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Encapsulation", "Encapsulat
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FinalApp", "FinalApp\FinalApp.csproj", "{8B189F76-BDAD-4681-ACAF-DD32543452E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritanceChallenge", "InheritanceChallenge\InheritanceChallenge.csproj", "{2149284C-B545-4835-83BF-C7B8DABB7F93}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InheritanceChallenge", "InheritanceChallenge\InheritanceChallenge.csproj", "{2149284C-B545-4835-83BF-C7B8DABB7F93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritanceChallengeEmployee", "InheritanceChallengeEmployee\InheritanceChallengeEmployee.csproj", "{F9129ED3-18BD-438C-A139-E2320511F7F6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{2149284C-B545-4835-83BF-C7B8DABB7F93}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2149284C-B545-4835-83BF-C7B8DABB7F93}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2149284C-B545-4835-83BF-C7B8DABB7F93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9129ED3-18BD-438C-A139-E2320511F7F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9129ED3-18BD-438C-A139-E2320511F7F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9129ED3-18BD-438C-A139-E2320511F7F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9129ED3-18BD-438C-A139-E2320511F7F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
