@@ -23,6 +23,12 @@ namespace Polymorphism1
 
             Audi anotherAudi = (Audi) myAudi;
             anotherAudi.ShowDetails();
+            Console.WriteLine();
+
+            Car myM3 = new M3("red");
+            myM3.ShowDetails();
+            myM3.BuyAuto(1992, "Israel Mendoza");
+        
         }
     }
 }

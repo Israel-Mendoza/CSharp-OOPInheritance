@@ -31,7 +31,7 @@ namespace Polymorphism1
         }
 
         // Methods
-        public override void ShowDetails() => Console.WriteLine($"A {this.Color} {Model} {Brand} car with {this.HP} HP.");
+        public sealed override void ShowDetails() => Console.WriteLine($"A {this.Color} {Model} {Brand} car with {this.HP} HP.");
 
         public override void Repair() => Console.WriteLine($"The {Model} was repaired!");
     }

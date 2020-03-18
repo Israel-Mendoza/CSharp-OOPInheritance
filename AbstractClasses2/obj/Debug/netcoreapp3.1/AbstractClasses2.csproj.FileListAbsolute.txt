@@ -8,3 +8,4 @@ C:\Users\Israel Mendoza\source\repos\OOP_Inheritance\AbstractClasses2\obj\Debug\
 C:\Users\Israel Mendoza\source\repos\OOP_Inheritance\AbstractClasses2\obj\Debug\netcoreapp3.1\AbstractClasses2.AssemblyInfo.cs
 C:\Users\Israel Mendoza\source\repos\OOP_Inheritance\AbstractClasses2\obj\Debug\netcoreapp3.1\AbstractClasses2.dll
 C:\Users\Israel Mendoza\source\repos\OOP_Inheritance\AbstractClasses2\obj\Debug\netcoreapp3.1\AbstractClasses2.pdb
+C:\Users\Israel Mendoza\source\repos\OOP_Inheritance\AbstractClasses2\obj\Debug\netcoreapp3.1\AbstractClasses2.csprojAssemblyReference.cache
