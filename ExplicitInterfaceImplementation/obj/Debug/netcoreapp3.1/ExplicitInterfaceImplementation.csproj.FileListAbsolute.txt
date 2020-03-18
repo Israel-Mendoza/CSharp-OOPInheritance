@@ -1,0 +1,11 @@
+C:\Users\Israel Mendoza\source\repos\OOP_Inheritance\ExplicitInterfaceImplementation\bin\Debug\netcoreapp3.1\ExplicitInterfaceImplementation.exe
+C:\Users\Israel Mendoza\source\repos\OOP_Inheritance\ExplicitInterfaceImplementation\bin\Debug\netcoreapp3.1\ExplicitInterfaceImplementation.deps.json
+C:\Users\Israel Mendoza\source\repos\OOP_Inheritance\ExplicitInterfaceImplementation\bin\Debug\netcoreapp3.1\ExplicitInterfaceImplementation.runtimeconfig.json
+C:\Users\Israel Mendoza\source\repos\OOP_Inheritance\ExplicitInterfaceImplementation\bin\Debug\netcoreapp3.1\ExplicitInterfaceImplementation.runtimeconfig.dev.json
+C:\Users\Israel Mendoza\source\repos\OOP_Inheritance\ExplicitInterfaceImplementation\bin\Debug\netcoreapp3.1\ExplicitInterfaceImplementation.dll
+C:\Users\Israel Mendoza\source\repos\OOP_Inheritance\ExplicitInterfaceImplementation\bin\Debug\netcoreapp3.1\ExplicitInterfaceImplementation.pdb
+C:\Users\Israel Mendoza\source\repos\OOP_Inheritance\ExplicitInterfaceImplementation\obj\Debug\netcoreapp3.1\ExplicitInterfaceImplementation.AssemblyInfoInputs.cache
+C:\Users\Israel Mendoza\source\repos\OOP_Inheritance\ExplicitInterfaceImplementation\obj\Debug\netcoreapp3.1\ExplicitInterfaceImplementation.AssemblyInfo.cs
+C:\Users\Israel Mendoza\source\repos\OOP_Inheritance\ExplicitInterfaceImplementation\obj\Debug\netcoreapp3.1\ExplicitInterfaceImplementation.dll
+C:\Users\Israel Mendoza\source\repos\OOP_Inheritance\ExplicitInterfaceImplementation\obj\Debug\netcoreapp3.1\ExplicitInterfaceImplementation.pdb
+C:\Users\Israel Mendoza\source\repos\OOP_Inheritance\ExplicitInterfaceImplementation\obj\Debug\netcoreapp3.1\ExplicitInterfaceImplementation.csprojAssemblyReference.cache
